@@ -1,6 +1,6 @@
 - hi, i am Aditya Verma
 - im mostly intrested in game dev, but i like computers in general
-- im currently learning rust, godot and unity
+- im currently learning rust and c++
 - Im looking to collaborate on games lol
 - How to reach me ...  (dont im scared >.<)
 - pronouns: he becuase ill never be him
